@@ -1,0 +1,12 @@
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+
+# Pastas de ambientes virtuais ou dependências (ajuste se usar Python/Node)
+__pycache__/
+node_modules/
+.env
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
