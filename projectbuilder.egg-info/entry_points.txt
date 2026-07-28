@@ -1,0 +1,2 @@
+[console_scripts]
+projectbuilder = builder.cli.main:main

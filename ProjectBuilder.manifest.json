@@ -1,0 +1,12 @@
+{
+    "project":"ProjectBuilder",
+    "version":"0.1.0-dev",
+    "author":"Network-PDC",
+    "python":"3.12",
+    "master_source":"ProjectBuilder_Master_Source.txt",
+    "repository":"https://github.com/Network-PDC/ProjectBuilder"
+}__version__ = "0.1.0-dev"
+
+APP_NAME = "ProjectBuilder"
+
+AUTHOR = "Network-PDC"
