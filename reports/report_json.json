@@ -1,0 +1,12 @@
+{
+    "title": "Test Report",
+    "report_type": "test",
+    "generated_at": "2026-07-28 17:57:34.485808",
+    "sections": {
+        "info": {
+            "status": "ok",
+            "version": "1.0"
+        }
+    },
+    "metadata": {}
+}
